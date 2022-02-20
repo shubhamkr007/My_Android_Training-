@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi-screen language App</string>
+    <string name="Number">NUMBER</string>
+    <string name="Color">COLOR</string>
+    <string name="Relations">RELATION</string>
+    <string name="Phrases">PHRASES</string>
+</resources>
